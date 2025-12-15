@@ -42,17 +42,7 @@ Key features:
 - Training Epochs: 300
 - Batch Size: 1
 
----
 
-## Dataset Structure
-DHaze/
-├── test/
-│ ├── input/ # Hazy images
-│ └── target/ # Ground-truth clear images
-└── results/
-├── dehazed/
-├── best_model.pth
-└── comparison.png
 
-The dataset must be organized as follows:
+
 
